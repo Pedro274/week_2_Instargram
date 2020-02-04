@@ -1,0 +1,60 @@
+
+.navbar {
+    padding: 3px 150px;
+    box-shadow: 0 0 2px black;
+}
+
+.btn-pop {
+    margin-left: 12px;
+}
+
+.instagramSign {
+    font-family: 'Acme', sans-serif;
+}
+
+textarea {
+    width: 100%;
+    border: 1px solid black;
+    box-shadow: 0 0 4px black;
+}
+
+.modalLogo {
+    width: 40px;
+}
+
+.dropdown {
+    margin-left: 4px;
+}
+
+.sortingBar li {
+    margin: 12px;
+    font-size: 10px;
+}
+
+#home .card {
+    margin-top: 60px;
+    padding: 0;
+    width: 600px;
+    border: 1px solid black;
+    box-shadow: 0 0 8px black;
+}
+
+.content-1 {
+    margin-bottom: 60px;
+}
+
+.content-2 {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-bottom: 60px;
+}
+
+.content-2 .card {
+    margin: 20px;
+    padding: 0;
+    width: 600px;
+    border: 1px solid black;
+    box-shadow: 0 0 8px black;
+}
+
